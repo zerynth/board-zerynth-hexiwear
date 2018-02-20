@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "sys.zerynth.armgcc": "r2.0.11",
+        "vhal.zerynth.armcmx_nxpk64": "r2.0.11"
+    },
+    "description": "Add support for Hexiwear",
+    "fullname": "board.zerynth.hexiwear",
+    "git_pointer": "zerynth://zerynth-boards/hexiwear",
+    "info": {
+        "board": "Mikroelektronika - NXP Hexiwear",
+        "chip_manufacturer": "NXP",
+        "device": "k64",
+        "family_type": "ARM Cortex M4"
+    },
+    "keywords": [
+        "nxp",
+        "ble"
+    ],
+    "repo": "official",
+    "title": "Hexiwear Support Package",
+    "version": "r2.0.11",
+    "whatsnew": " "
+}
