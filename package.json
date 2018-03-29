@@ -1,7 +1,7 @@
 {
     "dependencies": {
-        "sys.zerynth.armgcc": "r2.0.11",
-        "vhal.zerynth.armcmx_nxpk64": "r2.0.11"
+        "sys.zerynth.armgcc": "r2.1.0",
+        "vhal.zerynth.armcmx_nxpk64": "r2.1.0"
     },
     "description": "Add support for Hexiwear",
     "fullname": "board.zerynth.hexiwear",
@@ -18,6 +18,6 @@
     ],
     "repo": "official",
     "title": "Hexiwear Support Package",
-    "version": "r2.0.11",
+    "version": "r2.1.0",
     "whatsnew": " "
 }
