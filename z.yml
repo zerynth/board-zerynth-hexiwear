@@ -1,0 +1,13 @@
+---
+description: Add support for Hexiwear
+fullname: board.zerynth.hexiwear
+info:
+    board: Mikroelektronika - NXP Hexiwear
+    chip_manufacturer: NXP
+    device: k64
+    family_type: ARM Cortex M4
+keywords:
+- nxp
+- ble
+title: Hexiwear Support Package
+...
