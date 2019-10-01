@@ -17,7 +17,7 @@
     "architecture": "cortex-m4f",
     "gccopts": {
         "arch": [
-            "cortex-m4",
+            "-mcpu=cortex-m4",
             "-mthumb",
             "-mfloat-abi=hard",
             "-mfpu=fpv4-sp-d16",
